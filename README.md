@@ -21,6 +21,8 @@ o	Guide:
 Deliverables:
 1)	Release branch (Main branch).
 2)	Report.
+  
 Expected sample report
 Function Name	              Changes	                                          Code version
-areaOfCircle	              Add '&' before the radius variable on the scanf.	0c2f46c95dc81912cb2487087c44c40c62224f49
+calAreaOfSquare	            from: Int side, area; | to: int side, area;       45560eb5b9f957a591a031b2dcb4b48ac11f2faf 
+calAreaOfSquare	            from: line 109, areas | to: line 109, area        4998d0f420d70bce466a3e128d23ed0b324b94a4
