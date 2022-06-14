@@ -22,9 +22,11 @@ Deliverables:
 1)	Release branch (Main branch).
 2)	Report.
   
-Expected sample report
-Function Name	              Changes	                                          Code version
-calAreaOfSquare	            from: Int side, area; | to: int side, area;       45560eb5b9f957a591a031b2dcb4b48ac11f2faf 
-calAreaOfSquare	            from: line 109, areas | to: line 109, area        4998d0f420d70bce466a3e128d23ed0b324b94a4
-ca2AreaofTriangle           from: line 87, r 4 | to line 87, r_4              82c8b9ed0215e17b371f9f0e8916b0ba7201068b
-ca2AreaofTriangle           from: line 92, side | to line 92, side;           82c8b9ed0215e17b371f9f0e8916b0ba7201068b
+
+Function Name	              Changes	                                                                                          Code version
+calAreaOfSquare	       from: Int side, area; | to: int side, area;                                                           45560eb5b9f957a591a031b2dcb4b48ac11f2faf 
+calAreaOfSquare	       from: line 109, areas | to: line 109, area                                                            4998d0f420d70bce466a3e128d23ed0b324b94a4
+ca2AreaofTriangle      from: line 87, r 4 | to line 87, r_4                                                                  82c8b9ed0215e17b371f9f0e8916b0ba7201068b
+ca2AreaofTriangle      from: line 92, side | to line 92, side;                                                               82c8b9ed0215e17b371f9f0e8916b0ba7201068b
+calAreaOfRectangle     from: line 119, scanf("%", &length); | scanf("%d", &length);                                          987232896602bd103df07afeaba72ccc25eb376c
+calAreaOfRectangle     from: line 125, printf("\nArea of Rectangle : %d", AREA); | printf("\nArea of Rectangle : %d", area); 987232896602bd103df07afeaba72ccc25eb376c
