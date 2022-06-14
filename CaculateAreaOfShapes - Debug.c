@@ -69,6 +69,7 @@ int main() {
 void calAreaOfCircle() {
    float radius;
    float area;
+   float radius, area;
    printf("\nEnter the radius of Circle : ");
    scanf("%d", &radius);
  
