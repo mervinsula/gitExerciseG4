@@ -116,12 +116,12 @@ void calAreaOfRectangle(){
 	   int length, breadth, area;
  
    printf("\nEnter the Length of Rectangle : ");
-   scanf("%", &length);
+   scanf("%d", &length);
  
    printf("\nEnter the Breadth of Rectangle : ");
    scanf("%d", &breadth);
  
    area = length * breadth;
-   printf("\nArea of Rectangle : %d", AREA);
+   printf("\nArea of Rectangle : %d", area);
       getch();
 }
