@@ -106,7 +106,7 @@ void calAreaOfSquare(){
    scanf("%d", &side);
  
    area = side * side;
-   printf("\nArea of Square : %d", areas);
+   printf("\nArea of Square : %d", area);
    getch();
 }
 
